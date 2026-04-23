@@ -109,7 +109,7 @@ it-support-lab/
 > Identified expired VPN certificate as root cause. Pushed updated certificate remotely via MDM. Guided user through VPN reconnection steps via phone. User confirmed VPN working. Updated documentation with certificate renewal schedule. Ticket resolved.
 
 **Screenshot:**
-![VPN ticket](ITIL-LAB/Closed_tickets_overview.png)
+![VPN ticket](ITIL-LAB/Closed_ticket-2.png)
 
 ---
 
